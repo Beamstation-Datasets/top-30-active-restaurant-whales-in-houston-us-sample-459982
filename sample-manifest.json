@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8121e08d-9e11-4d5b-8d08-d7fca866ab71",
+  "id_short": 459982,
+  "published_at": "2026-04-12T19:12:47Z",
+  "repo_name": "top-30-active-restaurant-whales-in-houston-us-sample-459982",
+  "sample_asset_name": "beamstation_459982_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/459982/beamstation_459982_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 393,
+  "sample_sha256": "4c3d8f2173b834935903f4eb6f84ae978b886b775ed6222788904c404992fc89",
+  "sample_size_bytes": 1662317,
+  "total_records": 3930
+}
