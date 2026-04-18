@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Houston, US
 
-> Free BeamStation sample export with 393 rows and masked direct-contact fields.
+> Free BeamStation sample export with 385 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `459982` |
 | Location | Houston |
 | Category | Restaurants |
-| Full dataset size | 3,930 records |
-| Free sample size | 393 records (10.0%) |
-| Last export | 2026-04-08T00:23:20.576979+00:00 |
+| Full dataset size | 3,857 records |
+| Free sample size | 385 records (9.98%) |
+| Last export | 2026-04-15T06:16:18.684874+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-houston-us-sample-459982/releases/download/sample-latest/beamstation_459982_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
